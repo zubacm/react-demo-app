@@ -1,0 +1,317 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "test@mail.com",
+      "password": "test",
+      "roles": [
+        "User",
+        "Seller"
+      ]
+    },
+    {
+      "id": 2,
+      "username": "admin@mail.com",
+      "password": "admin",
+      "roles": [
+        "Admin"
+      ]
+    }
+  ],
+  "products-categories": [
+    {
+      "id": 1,
+      "category": "uncategorized"
+    },
+    {
+      "id": 2,
+      "category": "computers"
+    },
+    {
+      "id": 3,
+      "category": "phones"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Prvi",
+      "description": "Some long description",
+      "price": "24$",
+      "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/48201652044PM_635_samsung_galaxy_s.jpeg",
+      "categoryId": "3"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy s1",
+      "description": "Some long description",
+      "price": "24$",
+      "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/48201652044PM_635_samsung_galaxy_s.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy s1",
+      "description": "Some long description",
+      "price": "24$",
+      "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/48201652044PM_635_samsung_galaxy_s.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy s1",
+      "description": "Some long description",
+      "price": "24$",
+      "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/48201652044PM_635_samsung_galaxy_s.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy s1",
+      "description": "Some long description",
+      "price": "24$",
+      "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/48201652044PM_635_samsung_galaxy_s.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 10,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "name": "Samsung Galaxy s1",
+      "description": "Some long description",
+      "price": "24$",
+      "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/48201652044PM_635_samsung_galaxy_s.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 12,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "name": "Samsung Galaxy s1",
+      "description": "Some long description",
+      "price": "24$",
+      "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/48201652044PM_635_samsung_galaxy_s.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 14,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 15,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 16,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 17,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 18,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 19,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 20,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 21,
+      "name": "Lenovo w32",
+      "description": "Some long description",
+      "price": "240$",
+      "imageUrl": "https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 22,
+      "name": "Samsung",
+      "price": "56$",
+      "categoryId": "3"
+    },
+    {
+      "id": 23,
+      "name": "xcxc",
+      "price": "12$",
+      "imageUrl": "https://media-exp1.licdn.com/dms/image/C561BAQEPUizU1ETJCA/company-background_10000/0/1584358150467?e=2159024400&v=beta&t=-bmti7-qK6WKCcjAtBkNqM43MiKB_czGbbIOhBwaGGw",
+      "categoryId": "1"
+    },
+    {
+      "id": 24,
+      "name": "dsfasdfas",
+      "price": "23$",
+      "imageUrl": "https://media-exp1.licdn.com/dms/image/C561BAQEPUizU1ETJCA/company-background_10000/0/1584358150467?e=2159024400&v=beta&t=-bmti7-qK6WKCcjAtBkNqM43MiKB_czGbbIOhBwaGGw",
+      "categoryId": "2"
+    },
+    {
+      "id": 25,
+      "name": "huawei",
+      "price": "900$",
+      "imageUrl": "https://media-exp1.licdn.com/dms/image/C561BAQEPUizU1ETJCA/company-background_10000/0/1584358150467?e=2159024400&v=beta&t=-bmti7-qK6WKCcjAtBkNqM43MiKB_czGbbIOhBwaGGw",
+      "categoryId": "3"
+    },
+    {
+      "id": 26,
+      "name": "hua",
+      "price": "65$",
+      "imageUrl": "https://media-exp1.licdn.com/dms/image/C561BAQEPUizU1ETJCA/company-background_10000/0/1584358150467?e=2159024400&v=beta&t=-bmti7-qK6WKCcjAtBkNqM43MiKB_czGbbIOhBwaGGw",
+      "categoryId": "3"
+    },
+    {
+      "id": 27,
+      "name": "afasdfasd",
+      "price": "34$",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 28,
+      "name": "123",
+      "price": "123$",
+      "description": "dddd",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 29,
+      "name": "321",
+      "price": "321$",
+      "description": "321",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 30,
+      "name": "3000",
+      "price": "30$",
+      "description": "30",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 31,
+      "name": "Novo",
+      "price": "novo",
+      "description": "novo",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 32,
+      "name": "najnovije",
+      "price": "7$",
+      "description": "sdf",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 33,
+      "name": "okokokok",
+      "price": "33$",
+      "description": "3333333333",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 35,
+      "name": "355555",
+      "price": "3555$",
+      "description": "opiss",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 36,
+      "name": "zadnje",
+      "price": "56$",
+      "description": "zadnje",
+      "imageUrl": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 37,
+      "name": "najzadnje",
+      "price": "37$",
+      "description": "zzzzz",
+      "imageUrl": "",
+      "categoryId": "1"
+    }
+  ]
+}
